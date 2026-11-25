@@ -1,0 +1,3 @@
+# Hospital Medicine Delivery Robot (BFS)
+
+A Python simulation of a hospital medicine delivery robot starting from the pharmacy (`P`) to patient rooms (`G1`, `G2`, `G3`) using Breadth-First Search (BFS) for shortest paths.
